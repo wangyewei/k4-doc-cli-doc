@@ -1,0 +1,28 @@
+{
+  "name": "k4-doc-cli-doc",
+  "version": "1.0.0",
+  "description": "The document of k4-doc-clic-doc based vitepress",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangyewei/k4-doc-cli-doc.git"
+  },
+  "keywords": [
+    "vite",
+    "vitepress",
+    "vue"
+  ],
+  "author": "王野未 <wangyewei1@foxmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangyewei/k4-doc-cli-doc/issues"
+  },
+  "homepage": "https://github.com/wangyewei/k4-doc-cli-doc#readme",
+  "dependencies": {
+    "typescript": "^5.0.4",
+    "vitepress": "1.0.0-alpha.65"
+  }
+}
